@@ -30,4 +30,4 @@ for i in list(mot):
 	new_word.append(new_letter)
 res = ''.join(new_word)
 if show == 0:
-	print(res)
+	print(res) 
